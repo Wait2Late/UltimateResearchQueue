@@ -1,14 +1,14 @@
 {
-  "name": "UltimateResearchQueue",
+  "name": "UltimateResearchQueue(Fork)",
   "version": "1.1.1",
-  "title": "Ultimate Research Queue",
+  "title": "UltimateResearchQueue(Fork)",
   "description": "Queue technologies for research, see research time ETAs, automatically research all prerequisites, auto-research infinite technologies.",
   "author": "raiguard",
-  "contact": "https://github.com/raiguard/UltimateResearchQueue",
-  "homepage": "https://github.com/raiguard/UltimateResearchQueue",
+  "contact": "https://github.com/Wait2Late/UltimateResearchQueue",
+  "homepage": "https://github.com/Wait2Late/UltimateResearchQueue",
   "factorio_version": "1.1",
   "dependencies": [
-    "base >= 1.1.107",
+    "base >= 1.1.110",
     "flib >= 0.14.1",
     "? RecipeBook",
     "! sonaxaton-research-queue"
