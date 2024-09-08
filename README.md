@@ -1,4 +1,4 @@
-#This is a fork of the Ultimate Research Queue mod by Raiguard
+# This is a fork of the Ultimate Research Queue mod by Raiguard
 A friend wanted Prerequisite and Descendants to trade places
 
 
