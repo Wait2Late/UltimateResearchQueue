@@ -922,8 +922,8 @@ gui.base_template = {
                 column_count = 12,
               },
             },
-            gui_util.tech_info_sublist({ "gui.urq-prerequisites" }, "tech_info_prerequisites_table"),
             gui_util.tech_info_sublist({ "gui.urq-descendants" }, "tech_info_descendants_table"),
+            gui_util.tech_info_sublist({ "gui.urq-prerequisites" }, "tech_info_prerequisites_table"),
             gui_util.tech_info_sublist({ "gui.urq-upgrade-group" }, "tech_info_upgrade_group_table"),
           },
           {
